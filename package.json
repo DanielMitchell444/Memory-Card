@@ -1,6 +1,6 @@
 {
   "name": "memory-card",
-  "homepage": "https://github.com/DanielMitchell444/memory-card-game/",
+  "homepage": "https://github.com/DanielMitchell444/memory-card-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
